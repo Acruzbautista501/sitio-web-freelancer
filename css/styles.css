@@ -273,3 +273,12 @@ h1,h2,h3 {
 .footer {
     text-align: center;
 }
+
+.portafolio-web {
+    text-decoration: none;
+    color: var(--oscuro);
+}
+
+.portafolio-web:hover {
+    color: var(--primario);
+}
